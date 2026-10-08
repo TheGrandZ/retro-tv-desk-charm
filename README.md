@@ -4,7 +4,7 @@ A tiny 3D printed retro TV that loops short video clips on your desk. You send c
 
 > **Status:** working prototype. Plays clips, takes uploads from a phone, housing fits. Paint and final photos still to come.
 
-<!-- TODO: put your best photo or a 10 second GIF here. This is the most important thing on the page. -->
+> **Status:** working prototype. Plays clips, takes uploads from a phone, housing fits.
 <!-- ![Retro TV playing a clip](docs/img/hero.jpg) -->
 
 ## What it does
