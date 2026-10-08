@@ -14,7 +14,7 @@ A tiny 3D printed retro TV that loops short video clips on your desk. You send c
 - **Converts in the browser.** The phone turns the video into the format the TV needs, so the TV never has to do heavy work.
 - **Clip manager.** Play or delete any clip from the same page.
 - **Brightness control** that the TV remembers when unplugged.
-- **Turnable magnetic knobs** and a filament-rod antenna, because it is a TV.
+- **Turnable magnetic knobs** and a filament-rod antenna, because it is a TV. (Can also use thumbtacks metal)
 
 ## Parts
 
