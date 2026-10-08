@@ -2,10 +2,9 @@
 
 A tiny 3D printed retro TV that loops short video clips on your desk. You send clips to it straight from your phone over WiFi. No app, no computer, no cables after the first setup.
 
-> **Status:** working prototype. Plays clips, takes uploads from a phone, housing fits. Paint and final photos still to come.
 
 > **Status:** working prototype. Plays clips, takes uploads from a phone, housing fits.
-<!-- ![Retro TV playing a clip](docs/img/hero.jpg) -->
+![Retro TV playing a clip](docs/img/hero.gif)
 
 ## What it does
 
